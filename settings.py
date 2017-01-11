@@ -28,7 +28,7 @@ class Settings:
         return '%s by %s' % (formatted, self.login)
 
     def by(self):
-        mail = '%s@student.42.fr' % self.login
+        mail = 'fspwz@foxmail.com'
 
         return '%s <%s>' % (self.login, mail)
 
